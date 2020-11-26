@@ -1,0 +1,130 @@
+@charset "utf-8";
+/* CSS Document */
+
+.navbar{
+	
+	
+}
+.navbar-icons { 
+			
+           color: #FFFFFF !important;
+        } 
+H5{
+font-family: mina, serif;
+
+font-weight: 400;
+
+font-style: normal;
+
+
+	
+}
+.headline{
+	
+	font-size: 5rem;
+}
+
+.teaser{
+	margin: 4rem;
+	
+}
+
+
+.intro{
+	
+	background-color:  #efe6dc;
+	height: auto;
+	padding: 2rem;
+}
+
+.beautiful{
+font-family: mina, serif;
+
+font-weight: 400;
+
+font-style: normal;
+
+}
+
+	body {
+		background: #fff;
+	}
+
+.col-12{
+	
+	width:100%!important;
+}
+
+.bg-colour {
+  background-color: #FFFFFF !important;
+}
+
+.space{
+	
+	margin-left: 3vw;
+}
+
+.social-icon{
+	background-color:  #FFFFFF !important;
+	color: #000000 !important;
+}
+.icon-colour{
+	margin-left: 2rem;
+	
+}
+.small-icon{
+	
+	width: 5vw;
+	
+}
+.small-font{
+	
+	font-size: 1.5rem;
+	
+}
+
+
+
+
+@media (max-width: 575.98px) {
+	
+.first {
+  -ms-flex: 0 0 50%;
+  flex: 0 0 50%;
+  max-width: 50%;
+		padding-left: 0px!important;
+		padding-right: 0px!important;
+		width: 50%!important;
+}
+		
+.second {
+  -ms-flex: 0 0 50%;
+  flex: 0 0 50%;
+  max-width: 50%;
+	padding-left: 0px!important;
+		padding-right: 0px!important;
+	width: 50%!important;
+}	
+
+}
+
+@media (min-width: 576px) {i
+.first {
+  -ms-flex: 0 0 33.3333%;
+  flex: 0 0 33.3333%;
+  max-width: 33.3333%;
+	padding-left: 0px!important;
+		padding-right: 0px!important;
+	width: 33.3333%!important;
+}
+		
+.second {
+  -ms-flex: 0 0 33.3333%;
+  flex: 0 0 33.33330%;
+  max-width: 33.3333%;
+	padding-left: 0px!important;
+		padding-right: 0px!important;
+	width: 33.3333%!important;
+}		
+		
+}
